@@ -1,4 +1,4 @@
-<img width="875" height="281" alt="image" src="https://github.com/user-attachments/assets/27141d52-346c-4c40-945c-dacccc63bf65" /><img width="928" height="332" alt="image" src="https://github.com/user-attachments/assets/b8401b8e-7f2b-458b-8516-129766b3c850" /># Experiment-15
+## Experiment-15
 ## The study of the Selenium Web Testing Tool reveals its effectiveness in automating web applications for testing purposes across different browsers and platforms.
 ## What is Selenium?
 JavaScript framework that runs in your web browser Works anywhere JavaScript is supported Hooks for many other languages Java, Ruby, Python Can simulate a user navigating through pages and then assert for specific marks on the pages All you need to really know is HTML to start using it right away
